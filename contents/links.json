@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kong Gateway",
+    "description": "ハイブリッド及びマルチクラウド向けに構築され、マイクロサービスおよび分散アーキテクチャに最適化されたAPIゲートウェイ",
+    "link": "https://docs.konghq.com/gateway/latest/"
+  },
+  {
+    "name": "Insomnia",
+    "description": "コラボレーティブなAPIクライアントおよびデザインツール",
+    "link": "https://docs.insomnia.rest/"
+  },
+  {
+    "name": "Kuma",
+    "description": "Envoy Proxyをバンドルした最新の分散コントロールパネルの統合",
+    "link": "https://kuma.io/docs/"
+  },
+  {
+    "name": "Kong Konnect",
+    "description": "SaaS API プラットフォーム",
+    "link": "https://docs.konghq.com/konnect/"
+  },
+  {
+    "name": "Kong Mesh",
+    "description": "Envoy上に構築され、シンプルさ、セキュリティ、スケーラビリティに重点を置いたモダンなコントロール・プレーン",
+    "link": "https://docs.konghq.com/mesh/latest/"
+  },
+  {
+    "name": "Kong Plugin Hub",
+    "description": "強力なプラグインと容易なインテグレーションによりKong Konnectを拡張",
+    "link": "https://docs.konghq.com/hub/"
+  },
+  {
+    "name": "decK",
+    "description": "KonnectとKong Gatewayの設定を宣言的に管理",
+    "link": "https://docs.konghq.com/deck/latest/"
+  },
+  {
+    "name": "Kubernetes Ingress Controller",
+    "description": "Kong Gatewayのingress controller",
+    "link": "https://docs.konghq.com/kubernetes-ingress-controller/latest/"
+  }
+]
