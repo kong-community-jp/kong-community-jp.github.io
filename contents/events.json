@@ -1,20 +1,20 @@
 [
   {
-    "name": "Kong Summit 2023",
-    "date": "2023/2/16（木）19:00-20:30",
-    "image": "/images/event1.jpg",
-    "link": ""
+    "name": "API Summit 2023",
+    "date": "2023/9/27（水）~ 28（木)",
+    "image": "/images/kong-summit-2023.png",
+    "link": "https://konghq.com/events/conferences/api-summit"
   },
   {
-    "name": "Kong Summit 2023",
-    "date": "2023/2/16（木）19:00-20:30",
-    "image": "/images/event1.jpg",
-    "link": ""
+    "name": "【第3回開催！】Kong Community, Japanミートアップ",
+    "date": "2023/6/13（火）19:00-20:30",
+    "image": "/images/kong-jp-meetup-3rd.png",
+    "link": "https://kongjp.connpass.com/event/284421/"
   },
   {
-    "name": "Kong Summit 2023",
-    "date": "2023/2/16（木）19:00-20:30",
-    "image": "/images/event2.jpg",
-    "link": ""
+    "name": "Kong Summit, Japan 2022",
+    "date": "2022/12/15（木）19:00-20:30 ※ 終了・資料公開済み",
+    "image": "/images/kong-summit-japan-2022.png",
+    "link": "https://jp.konghq.com/blog/kongsummitjapan2022"
   }
 ]

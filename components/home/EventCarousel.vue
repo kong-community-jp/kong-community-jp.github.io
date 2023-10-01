@@ -37,6 +37,7 @@ const breakpoints = ref({
 .carousel-img {
   display: block;
   height: 200px;
+  width: auto;
   aspect-ratio: 16 / 9;
   border-radius: 23px 23px 0px 0px;
   object-fit: cover;
