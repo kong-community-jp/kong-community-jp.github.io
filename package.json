@@ -7,7 +7,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "gh-pages --dotfiles -d .output/public"
+    "deploy": "echo www.kongjp.org > .output/public/CNAME && gh-pages --dotfiles -d .output/public"
   },
   "devDependencies": {
     "@types/jquery": "^3.5.19",
