@@ -164,3 +164,20 @@
 
   <CopyrightFooter />
 </template>
+
+<script setup>
+useHead({
+  title: "Kong Community, Japan / ホーム",
+  script: [
+    {
+      type: "text/javascript",
+      async: true,
+      src: "https://platform.twitter.com/widgets.js",
+    },
+  ],
+})
+
+onMounted(() => {
+  window.twttr.widgets.load()
+})
+</script>

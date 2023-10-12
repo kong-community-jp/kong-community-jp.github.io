@@ -68,3 +68,9 @@
   <SubPageContact/>
   <CopyrightFooter/>
 </template>
+
+<script setup>
+useHead({
+  title: "Kong Community, Japan / 行動規範",
+})
+</script>

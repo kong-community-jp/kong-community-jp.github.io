@@ -27,4 +27,7 @@
 
 <script setup>
 import links from "@/contents/links.json"
+useHead({
+  title: "Kong Community, Japan / リンク",
+})
 </script>

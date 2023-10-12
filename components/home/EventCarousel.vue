@@ -49,7 +49,9 @@ const breakpoints = ref({
   border-radius: 0px 0px 23px 23px;
   padding: 30px;
   position: relative;
-  height: 230px;
+  height: 200px;
+  aspect-ratio: 16 / 9;
+  width: auto;
 }
 
 .down-content h4 {
