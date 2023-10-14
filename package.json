@@ -7,6 +7,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
+    "predeploy": "npm run generate",
     "deploy": "echo www.kongjp.org > .output/public/CNAME && gh-pages --dotfiles -d .output/public"
   },
   "devDependencies": {
